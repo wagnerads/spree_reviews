@@ -35,7 +35,7 @@ pt-BR:
     info_approve_review: 'Avaliação aprovada'
     leave_us_a_review_for: "Por favor, deixe uma avaliação para nosso %{name}"
     no_reviews_available: "Nenhuma avaliação feita ainda para esse produto."
-    out_of_5: "fora de 5"
+    out_of_5: "de 5"
     rating: 'classificação'
     reviews: 'Avaliações'
     admin:
